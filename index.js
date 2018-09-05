@@ -9,3 +9,4 @@ let newID = oldID + 1000000000
 // Write your code below this line!
 const ageIsValid = Number.isInteger(currentAge)
 let randomNumber = Math.round(Math.random() * 20)
+let randomInteger = Math.floor(randomNumber)
